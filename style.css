@@ -1,0 +1,13 @@
+#box{
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+    background-image: url('hello.jpg');
+}
+#button{
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: lightgreen;
+    cursor: pointer;
+}
